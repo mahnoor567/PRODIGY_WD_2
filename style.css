@@ -1,0 +1,192 @@
+.bg{
+    background-color: white;
+}
+
+.bgcolor{
+    transition: all 1s;
+    background-color: lightsalmon;
+    color: black;
+    border-bottom: 1px solid lightgray;
+}
+
+.navbar-brand{
+
+    font-weight: bolder;
+    padding-left: 14px;
+    color:  red !important;
+  
+
+    }
+
+    .logo{
+        border-radius: 50%;
+        padding-right: 10px;
+    }
+    .activ{
+        padding-left: 10px;
+        color: red!important;
+    
+    }
+      
+     .nav-link:hover,.dropdown-item:hover
+    {
+        color: red!important;
+        
+    }#btn1:hover{
+        background-color: red!important;
+    }
+
+    #cc{
+        background-color: red!important; 
+    }
+    .banner{
+        background-image: url('backpic.jpg');
+        position: relative;
+        height: 100%;
+        width: 100%;
+        display: table;
+        background-size: cover;
+    }
+    #i1{
+        padding-left: 20px;
+        padding-top: 150px;
+    }
+    #btn1:hover{
+     background-color: lightcoral !important;
+    }
+    .container{
+        color: white !important;
+        padding-bottom:150px;
+    
+    }
+    .c1{
+        padding-bottom: 10px;
+    }
+    .row{
+        padding-top: 30px;
+        padding-left: 50px;
+    }
+    .pic1{
+        padding-left: 140px;
+    }
+    .fa-circle-check{
+        color:red!important;
+        padding-right: 5px ;
+    }
+    #id3{
+        padding-top: 20px;
+        padding-bottom: 30px;
+        background-color:lightcoral;
+        color: white;
+        border-radius: 5px;
+    }
+    #id3 h1{
+        padding-bottom: 20px;
+    }
+    .fa-memo-circle-check{
+        text-align: center;
+        color:red;
+    
+    }
+    
+    #id4{
+        padding-top: 20px;
+        padding-bottom: 30px;
+        color: white;
+        border-radius: 5px;
+        border: grey;
+    }
+    .cards-title,.cards-text{
+        text-align: center;
+    }
+    .cardmain{
+        margin-top: 30px;
+    }
+    .container2{
+       
+       margin-top: 40px;
+        margin-left:  40px;
+        margin-right: 50px;
+    text-align: justify;
+    }
+    .fab{
+        padding-right: 8px;
+    }.fa-facebook-f{
+        color: #3b5998;
+    }
+    .fa-twitter{
+        color: #1DA1F2;
+    }
+    .fa-instagram{
+        color: #833AB4 ;
+    }
+    .fa-linkedin{
+        color:#0A66C2 ;
+    }
+    .fa-github{
+        color:#171515 ;
+    }
+    .container3{
+        color: #171515;
+    }
+    .fa-print{
+        color: rgb(20, 81, 60);
+    }
+    .fa-envelope{
+        color: #1DA1F2;
+    }
+    .fa-phone{
+        color: rgb(52, 214, 206);
+    }
+    .fa-home{
+        color: #3b5998;
+    }
+    .fa-gem {
+        color: #3b5998;
+    }
+    
+    .fa-chevron-right{
+        color:  red;
+    }
+    a:hover{
+        color:red;
+    } 
+    
+    
+    .form-check-label{ color: #171515;}* {
+        box-sizing: border-box;
+      }
+      
+      /* Float four columns side by side */
+      .column {
+        float: left;
+        width: 25%;
+        padding: 0 5px;
+      }
+      
+      .row {margin: 0 -5px;}
+      
+      /* Clear floats after the columns */
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+      
+      /* Responsive columns */
+      @media screen and (max-width: 600px) {
+        .column {
+          width: 100%;
+          display: block;
+          margin-bottom: 10px;
+        }
+      }
+      
+      /* Style the counter cards */
+     
+      
+      .fa {font-size:50px;}
+    
+      #bb{
+        background-color: red!important; 
+      }
